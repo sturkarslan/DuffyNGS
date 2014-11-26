@@ -1,5 +1,5 @@
 DuffyNGS
 ========
 
-DuffyNGS – alignment and peak calling of ChIP-seq data
-Developed by: Bob Morrison
+DuffyNGS – alignment and peak calling of ChIP-seq data</br>
+<code>Developed by: Bob Morrison</code>

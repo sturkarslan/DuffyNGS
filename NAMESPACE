@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import(Biostrings)
+import(methods)
+import(RUnit)
+useDynLib( DuffyNGS)
